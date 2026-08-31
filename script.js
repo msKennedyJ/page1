@@ -31,6 +31,5 @@ for (let i = 0; i < 400; i++) {
 document.onmouseup = function() {
     drawing = false;
 };
-}
 
 
