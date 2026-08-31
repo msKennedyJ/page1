@@ -6,6 +6,7 @@ body {
     height: 100vh;
 }
 
+
 #grid {
     display: grid;
     grid-template-columns: repeat(20, 20px);
