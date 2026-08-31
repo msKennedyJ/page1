@@ -32,7 +32,5 @@ document.onmouseup = function() {
     drawing = false;
 };
 }
-document.onmouseup = function() {
-    drawing = false;
-};
+
 
